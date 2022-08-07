@@ -1,4 +1,6 @@
 # C++ interview-prep
+![image](https://user-images.githubusercontent.com/59536110/183301736-5908a625-ebe3-40a3-ac19-3d1ab1600a34.png)
+
 C++ is a powerful and all-purpose programming tool developed by Bjarne Stroustrup at Bell Labs. This language is an extension of C and is by far one of the fastest object-oriented programming languages. C++ is super popular because of its high speed and compatibility.
 
 It is widely used in the development of games and servers while some of the real-world applications of C++ are as follows
